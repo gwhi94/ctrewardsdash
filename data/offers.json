@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-04-14T15:20:18.070Z",
+    "lastUpdated": "2026-04-14T15:25:20.754Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -21,23 +21,6 @@
       "startAt": "2026-01-26T00:00:00Z",
       "endAt": "DAYS:14",
       "assignedPayloadKey": "loyalty-level1-assigned-date"
-    },
-    {
-      "payloadKey": "uoc-web-loyalty-level2",
-      "attrName": "UOC_Web_Loyalty_Level2",
-      "sites": [
-        "US"
-      ],
-      "offerTitle": "Loyalty reward",
-      "offerDescription": "A little something for being a loyal customer.",
-      "offerText": "$10 OFF",
-      "subText": "Full-price items only",
-      "bannerEnabled": false,
-      "bannerText": "",
-      "terms": "",
-      "startAt": "2026-01-26T00:00:00Z",
-      "endAt": "DAYS:14",
-      "assignedPayloadKey": ""
     }
   ],
   "DIRECT_MAIL_REWARDS": {
