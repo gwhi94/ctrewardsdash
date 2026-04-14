@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-04-14T15:25:20.754Z",
+    "lastUpdated": "2026-04-14T15:31:33.613Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -141,20 +141,6 @@
       }
     },
     "de": {
-      "SS26_BCMA": {
-        "sites": [
-          "DE"
-        ],
-        "offerTitle": "Exklusiver Vorteil",
-        "offerDescription": "30€ Rabatt.",
-        "offerText": "30€ OFF",
-        "subText": "Kein Mindestbestellwert",
-        "bannerEnabled": true,
-        "bannerText": "30€ Rabatt – Exklusiver Vorteil",
-        "terms": "Endet 1. März 2026.",
-        "startAt": "2026-02-09T00:00:00Z",
-        "endAt": "2026-03-09T23:59:59Z"
-      },
       "SS26_BCMB": {
         "sites": [
           "DE"
