@@ -777,6 +777,7 @@ function showV(name) {
 
 // ─── RENDER DASHBOARD ─────────────────────────────────────────────────────────
 function renderDash() {
+  window.__dashRows = [];
   updateBadges();
   var all = allFlat();
   var sf = gv('f-status'), mf = gv('f-site'), srcf = gv('f-src');
@@ -804,9 +805,13 @@ function renderDash() {
     return sa - sb;
   });
 
-  document.getElementById('dash-body').innerHTML = filtered.map(function(x){
+  document.getElementById('dash-body').innerHTML = filtered.map(function(x, rowIdx){
     var st = getStatus(x.o);
-    var warn = st==='warn' ? ' <span class="warn-icon" title="endAt &quot;'+esc(x.o.endAt)+'&quot; looks like a bug \u2014 use DAYS:14">⚠</span>' : '';
+    var warn = st==='warn' ? ' <span class="warn-icon" title="endAt looks like a bug \u2014 use DAYS:14">⚠</span>' : '';
+    // Store row data in registry so onclick can reference by simple integer — avoids
+    // JSON quote-escaping issues when idx is an object like {lang,seg}
+    window.__dashRows = window.__dashRows || [];
+    window.__dashRows[rowIdx] = x;
     return '<tr>'+
       '<td><div class="omain">'+esc(x.o.offerText)+'</div><div class="osub">'+esc(x.o.offerTitle)+'</div><div style="margin-top:3px">'+kpill(x.key)+'</div></td>'+
       '<td>'+srcBadge(x.src)+'</td>'+
@@ -816,15 +821,23 @@ function renderDash() {
       '<td>'+fDate(x.o.endAt)+'</td>'+
       '<td>'+bnr(x.o.bannerEnabled)+'</td>'+
       '<td><div class="act">'+
-        '<button class="btn ico" title="Preview" onclick="previewFrom(\''+x.src+'\','+JSON.stringify(x.idx)+')">◉</button>'+
-        '<button class="btn ico" title="Edit" onclick="editFrom(\''+x.src+'\','+JSON.stringify(x.idx)+')">✎</button>'+
-        '<button class="btn ico del" title="Delete" onclick="delFrom(\''+x.src+'\','+JSON.stringify(x.idx)+')">✕</button>'+
+        '<button class="btn ico" title="Preview" onclick="dashAction(\'preview\','+rowIdx+')">◉</button>'+
+        '<button class="btn ico" title="Edit" onclick="dashAction(\'edit\','+rowIdx+')">✎</button>'+
+        '<button class="btn ico del" title="Delete" onclick="dashAction(\'del\','+rowIdx+')">✕</button>'+
       '</div></td>'+
     '</tr>';
   }).join('');
 }
 
 function stat(cls, n, lbl) { return '<div class="stat '+cls+'"><div class="stat-n">'+n+'</div><div class="stat-l">'+lbl+'</div></div>'; }
+
+function dashAction(action, rowIdx) {
+  var x = window.__dashRows && window.__dashRows[rowIdx];
+  if (!x) return;
+  if (action === 'edit')    editFrom(x.src, x.idx);
+  if (action === 'preview') previewFrom(x.src, x.idx);
+  if (action === 'del')     delFrom(x.src, x.idx);
+}
 function kpill(k) { return '<span class="okey">'+esc(String(k))+'</span>'; }
 function emptyRow(c) { return '<tr><td colspan="'+c+'"><div class="empty">No entries yet — click "+ Add" to create one.</div></td></tr>'; }
 
