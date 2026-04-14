@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-04-14T14:48:07.296Z",
+    "lastUpdated": "2026-04-14T15:05:22.991Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -233,6 +233,37 @@
       "terms": "Terms and Conditions: Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com.",
       "startAt": "2026-01-26T00:00:00Z",
       "endAt": "2026-07-27T23:59:59Z"
+    },
+    {
+      "sites": [
+        "UK",
+        "US"
+      ],
+      "offerTitle": "Test",
+      "offerDescription": "Test",
+      "offerText": "Test",
+      "subText": "Test",
+      "bannerEnabled": true,
+      "bannerText": "",
+      "terms": "",
+      "startAt": "",
+      "endAt": "DAYS:30",
+      "contains": "another_test_offer"
+    },
+    {
+      "sites": [
+        "US"
+      ],
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "Enjoy $75 off your next order, no minimum spend",
+      "offerText": "$75 off",
+      "subText": "No Minimum Spend",
+      "bannerEnabled": true,
+      "bannerText": "$75 Off",
+      "terms": "Terms and Conditions: Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com. Clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates.  Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+      "startAt": "2026-04-20T00:00:00Z",
+      "endAt": "2026-04-27T23:59:59Z",
+      "contains": "NW"
     }
   ],
   "SUPPRESSION": [
