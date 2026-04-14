@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-04-14T15:05:22.991Z",
+    "lastUpdated": "2026-04-14T15:06:18.980Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -155,20 +155,6 @@
         "terms": "Offer ends at 11:59pm on 1st March 2026.",
         "startAt": "2026-02-11T00:00:00Z",
         "endAt": "2026-03-01T23:59:59Z"
-      },
-      "test_new_dash": {
-        "sites": [
-          "UK"
-        ],
-        "offerTitle": "test_new_dash Title",
-        "offerDescription": "Description !",
-        "offerText": "test_new_dash",
-        "subText": "test_new_dash min spend",
-        "bannerEnabled": true,
-        "bannerText": "test_new_dash",
-        "terms": "",
-        "startAt": "2026-04-14T00:00:00Z",
-        "endAt": "2026-04-16T23:59:59Z"
       }
     },
     "de": {
