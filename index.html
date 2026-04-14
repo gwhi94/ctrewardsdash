@@ -796,6 +796,14 @@ function renderDash() {
     stat('total',all.length,'Total offers')+stat('active',cnt.active,'Active')+stat('expired',cnt.expired,'Expired')+stat('future',cnt.future,'Upcoming')+stat('supp',suppNow,'Active suppressions');
 
   if (!filtered.length) { document.getElementById('dash-body').innerHTML='<tr><td colspan="8"><div class="empty">No offers match the filters.</div></td></tr>'; return; }
+
+  var statusOrder = { active:0, future:1, warn:2, expired:3, inactive:4 };
+  filtered.sort(function(a, b) {
+    var sa = statusOrder[getStatus(a.o)] !== undefined ? statusOrder[getStatus(a.o)] : 99;
+    var sb = statusOrder[getStatus(b.o)] !== undefined ? statusOrder[getStatus(b.o)] : 99;
+    return sa - sb;
+  });
+
   document.getElementById('dash-body').innerHTML = filtered.map(function(x){
     var st = getStatus(x.o);
     var warn = st==='warn' ? ' <span class="warn-icon" title="endAt &quot;'+esc(x.o.endAt)+'&quot; looks like a bug \u2014 use DAYS:14">⚠</span>' : '';
