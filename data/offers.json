@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-04-14T15:51:13.693Z",
+    "lastUpdated": "2026-04-14T15:54:44.031Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -138,6 +138,20 @@
         "terms": "Offer ends at 11:59pm on 1st March 2026.",
         "startAt": "2026-02-11T00:00:00Z",
         "endAt": "2026-03-01T23:59:59Z"
+      },
+      "TEST FOR DELETE 2": {
+        "sites": [
+          "UK"
+        ],
+        "offerTitle": "TEST FOR DELETE 2",
+        "offerDescription": "TEST FOR DELETE 2",
+        "offerText": "TEST FOR DELETE 2",
+        "subText": "TEST FOR DELETE 2",
+        "bannerEnabled": true,
+        "bannerText": "",
+        "terms": "",
+        "startAt": "2026-04-16T00:00:00Z",
+        "endAt": "2026-04-24T23:59:59Z"
       }
     },
     "de": {
