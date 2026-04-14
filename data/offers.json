@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-04-13T00:00:00Z",
+    "lastUpdated": "2026-04-14T08:32:04.867Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -8,7 +8,9 @@
     {
       "payloadKey": "uoc-web-loyalty-level1",
       "attrName": "UOC_Web_Loyalty_Level1",
-      "sites": ["US"],
+      "sites": [
+        "US"
+      ],
       "offerTitle": "Welcome offer",
       "offerDescription": "As a thank you for your first purchase, enjoy $60 off your next full-price order.",
       "offerText": "$60 OFF",
@@ -23,7 +25,9 @@
     {
       "payloadKey": "uoc-web-loyalty-level2",
       "attrName": "UOC_Web_Loyalty_Level2",
-      "sites": ["US"],
+      "sites": [
+        "US"
+      ],
       "offerTitle": "Loyalty reward",
       "offerDescription": "A little something for being a loyal customer.",
       "offerText": "$10 OFF",
@@ -38,37 +42,43 @@
   ],
   "DIRECT_MAIL_REWARDS": {
     "USH471GPA": {
-      "sites": ["US"],
+      "sites": [
+        "US"
+      ],
       "offerTitle": "Exclusive Reward",
       "offerDescription": "Enjoy $75 off your order.",
       "offerText": "$75 OFF",
       "subText": "Full-price items only - No minimum spend",
       "bannerEnabled": true,
-      "bannerText": "$75 off \u2013 Exclusive Reward",
+      "bannerText": "$75 off – Exclusive Reward",
       "terms": "This offer ends at 11:59PM (PST) on February 8th, 2026.",
       "startAt": "2026-01-26T00:00:00Z",
       "endAt": "2026-02-09T00:00:00Z"
     },
     "USH471GPB": {
-      "sites": ["US"],
+      "sites": [
+        "US"
+      ],
       "offerTitle": "Exclusive Reward",
       "offerDescription": "Enjoy 30% off your order.",
       "offerText": "30% OFF",
       "subText": "Full-price items only - No minimum spend",
       "bannerEnabled": true,
-      "bannerText": "30% off \u2013 Exclusive Reward",
+      "bannerText": "30% off – Exclusive Reward",
       "terms": "This offer ends at 11:59PM (PST) on February 8th, 2026.",
       "startAt": "2026-01-26T00:00:00Z",
       "endAt": "2026-02-09T00:00:00Z"
     },
     "USH471GPC": {
-      "sites": ["US"],
+      "sites": [
+        "US"
+      ],
       "offerTitle": "Exclusive Reward",
       "offerDescription": "Enjoy $75 off when you spend $150.",
       "offerText": "$75 OFF",
       "subText": "$150 minimum spend",
       "bannerEnabled": true,
-      "bannerText": "$75 off $150 \u2013 Exclusive Reward",
+      "bannerText": "$75 off $150 – Exclusive Reward",
       "terms": "This offer ends at 11:59PM (PST) on February 8th, 2026.",
       "startAt": "2026-01-26T00:00:00Z",
       "endAt": "2026-02-09T00:00:00Z"
@@ -77,88 +87,116 @@
   "EMAIL_SEGMENTATION_OFFERS": {
     "en": {
       "SS26_BCMA": {
-        "sites": ["UK"],
+        "sites": [
+          "UK"
+        ],
         "offerTitle": "Exclusive Reward",
-        "offerDescription": "\u00a330 off your order.",
-        "offerText": "\u00a330 OFF",
+        "offerDescription": "£30 off your order.",
+        "offerText": "£30 OFF",
         "subText": "No minimum spend",
         "bannerEnabled": true,
-        "bannerText": "\u00a330 off \u2013 Exclusive Reward",
+        "bannerText": "£30 off – Exclusive Reward",
         "terms": "Terms and Conditions: Offer ends at 11:59pm on 1st March 2026.",
         "startAt": "2026-02-09T00:00:00Z",
         "endAt": "2026-03-09T23:59:59Z"
       },
       "SS26_BCMB": {
-        "sites": ["UK"],
+        "sites": [
+          "UK"
+        ],
         "offerTitle": "Exclusive Reward",
-        "offerDescription": "\u00a330 off when you spend \u00a3120.",
-        "offerText": "\u00a330 OFF",
-        "subText": "\u00a3120 minimum spend",
+        "offerDescription": "£30 off when you spend £120.",
+        "offerText": "£30 OFF",
+        "subText": "£120 minimum spend",
         "bannerEnabled": true,
-        "bannerText": "\u00a330 off \u00a3120 \u2013 Exclusive Reward",
+        "bannerText": "£30 off £120 – Exclusive Reward",
         "terms": "Terms and Conditions: Offer ends at 11:59pm on 1st March 2026.",
         "startAt": "2026-02-09T00:00:00Z",
         "endAt": "2026-03-09T23:59:59Z"
       },
       "SS26_BCMC": {
-        "sites": ["UK"],
+        "sites": [
+          "UK"
+        ],
         "offerTitle": "Exclusive Reward",
         "offerDescription": "20% off your order.",
         "offerText": "20% OFF",
         "subText": "No minimum spend",
         "bannerEnabled": true,
-        "bannerText": "20% off \u2013 Exclusive Reward",
+        "bannerText": "20% off – Exclusive Reward",
         "terms": "Terms and Conditions: Offer ends at 11:59pm on 1st March 2026.",
         "startAt": "2026-02-09T00:00:00Z",
         "endAt": "2026-03-09T23:59:59Z"
       },
       "SS26_2_React_Test": {
-        "sites": ["UK"],
+        "sites": [
+          "UK"
+        ],
         "offerTitle": "Exclusive Reward",
-        "offerDescription": "\u00a325 off your order.",
-        "offerText": "\u00a325 OFF",
+        "offerDescription": "£25 off your order.",
+        "offerText": "£25 OFF",
         "subText": "No minimum spend",
         "bannerEnabled": true,
-        "bannerText": "\u00a325 off \u2013 Exclusive Reward",
+        "bannerText": "£25 off – Exclusive Reward",
         "terms": "Offer ends at 11:59pm on 1st March 2026.",
         "startAt": "2026-02-11T00:00:00Z",
         "endAt": "2026-03-01T23:59:59Z"
       },
       "SS26_HVM_Reacts": {
-        "sites": ["UK"],
+        "sites": [
+          "UK"
+        ],
         "offerTitle": "Exclusive Reward",
-        "offerDescription": "\u00a325 off your order.",
-        "offerText": "\u00a325 OFF",
+        "offerDescription": "£25 off your order.",
+        "offerText": "£25 OFF",
         "subText": "No minimum spend",
         "bannerEnabled": true,
-        "bannerText": "\u00a325 off \u2013 Exclusive Reward",
+        "bannerText": "£25 off – Exclusive Reward",
         "terms": "Offer ends at 11:59pm on 1st March 2026.",
         "startAt": "2026-02-11T00:00:00Z",
         "endAt": "2026-03-01T23:59:59Z"
+      },
+      "test_new_dash": {
+        "sites": [
+          "UK"
+        ],
+        "offerTitle": "test_new_dash Title",
+        "offerDescription": "Description !",
+        "offerText": "test_new_dash",
+        "subText": "test_new_dash min spend",
+        "bannerEnabled": true,
+        "bannerText": "test_new_dash",
+        "terms": "",
+        "startAt": "2026-04-14T00:00:00Z",
+        "endAt": "2026-04-16T23:59:59Z"
       }
     },
     "de": {
       "SS26_BCMA": {
-        "sites": ["DE"],
+        "sites": [
+          "DE"
+        ],
         "offerTitle": "Exklusiver Vorteil",
-        "offerDescription": "30\u20ac Rabatt.",
-        "offerText": "30\u20ac OFF",
+        "offerDescription": "30€ Rabatt.",
+        "offerText": "30€ OFF",
         "subText": "Kein Mindestbestellwert",
         "bannerEnabled": true,
-        "bannerText": "30\u20ac Rabatt \u2013 Exklusiver Vorteil",
-        "terms": "Endet 1. M\u00e4rz 2026.",
+        "bannerText": "30€ Rabatt – Exklusiver Vorteil",
+        "terms": "Endet 1. März 2026.",
         "startAt": "2026-02-09T00:00:00Z",
         "endAt": "2026-03-09T23:59:59Z"
       },
       "SS26_BCMB": {
-        "sites": ["DE"],
+        "sites": [
+          "DE"
+        ],
         "offerTitle": "Exklusiver Vorteil",
-        "offerDescription": "30\u20ac Rabatt ab 120\u20ac.",
-        "offerText": "30\u20ac OFF",
-        "subText": "120\u20ac Mindestbestellwert",
+        "offerDescription": "30€ Rabatt ab 120€.",
+        "offerText": "30€ OFF",
+        "subText": "120€ Mindestbestellwert",
         "bannerEnabled": true,
-        "bannerText": "30\u20ac Rabatt ab 120\u20ac",
-        "terms": "Endet 1. M\u00e4rz 2026.",
+        "bannerText": "30€ Rabatt ab 120€",
+        "terms": "Endet 1. März 2026.",
         "startAt": "2026-02-09T00:00:00Z",
         "endAt": "2026-03-09T23:59:59Z"
       }
@@ -167,20 +205,24 @@
   "GI_SOURCECODE3_OFFERS": [],
   "DM_SOURCECODE3_OFFERS": [
     {
-      "sites": ["US"],
+      "sites": [
+        "US"
+      ],
       "contains": "NW",
       "offerTitle": "$60 off",
       "offerDescription": "$60 off no minimum spend.",
       "offerText": "$60 OFF",
       "subText": "No minimum spend",
       "bannerEnabled": true,
-      "bannerText": "$60 off \u2013 Exclusive Reward",
+      "bannerText": "$60 off – Exclusive Reward",
       "terms": "Terms and Conditions: Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com.",
       "startAt": "2026-01-26T00:00:00Z",
       "endAt": "2026-07-27T23:59:59Z"
     },
     {
-      "sites": ["US"],
+      "sites": [
+        "US"
+      ],
       "contains": "SEC",
       "offerTitle": "3 Shirts $149 + 20% Off",
       "offerDescription": "3 Shirts or Polos $149 + 20% Off everything else.",
@@ -194,11 +236,71 @@
     }
   ],
   "SUPPRESSION": [
-    { "sites": ["UK"], "ranges": [{ "start": "2026-03-08", "end": "2026-03-08" }] },
-    { "sites": ["DE"], "ranges": [{ "start": "2026-03-08", "end": "2026-03-08" }] },
-    { "sites": ["EU"], "ranges": [{ "start": "2026-03-04", "end": "2026-03-08" }] },
-    { "sites": ["FR"], "ranges": [{ "start": "2026-03-04", "end": "2026-03-08" }] },
-    { "sites": ["CH"], "ranges": [{ "start": "2026-03-04", "end": "2026-03-08" }] },
-    { "sites": ["NL"], "ranges": [{ "start": "2026-03-04", "end": "2026-03-08" }] }
+    {
+      "sites": [
+        "UK"
+      ],
+      "ranges": [
+        {
+          "start": "2026-03-08",
+          "end": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "sites": [
+        "DE"
+      ],
+      "ranges": [
+        {
+          "start": "2026-03-08",
+          "end": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "sites": [
+        "EU"
+      ],
+      "ranges": [
+        {
+          "start": "2026-03-04",
+          "end": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "sites": [
+        "FR"
+      ],
+      "ranges": [
+        {
+          "start": "2026-03-04",
+          "end": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "sites": [
+        "CH"
+      ],
+      "ranges": [
+        {
+          "start": "2026-03-04",
+          "end": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "sites": [
+        "NL"
+      ],
+      "ranges": [
+        {
+          "start": "2026-03-04",
+          "end": "2026-03-08"
+        }
+      ]
+    }
   ]
 }
