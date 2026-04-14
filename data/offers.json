@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-04-14T10:23:41.849Z",
+    "lastUpdated": "2026-04-14T14:48:07.296Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -233,22 +233,6 @@
       "terms": "Terms and Conditions: Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com.",
       "startAt": "2026-01-26T00:00:00Z",
       "endAt": "2026-07-27T23:59:59Z"
-    },
-    {
-      "sites": [
-        "UK",
-        "US"
-      ],
-      "offerTitle": "Test",
-      "offerDescription": "Test",
-      "offerText": "Test",
-      "subText": "Test",
-      "bannerEnabled": true,
-      "bannerText": "",
-      "terms": "",
-      "startAt": "",
-      "endAt": "DAYS:30",
-      "contains": "another_test_offer"
     }
   ],
   "SUPPRESSION": [
