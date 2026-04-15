@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-04-14T15:54:54.176Z",
+    "lastUpdated": "2026-04-15T08:33:51.410Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -138,6 +138,32 @@
         "terms": "Offer ends at 11:59pm on 1st March 2026.",
         "startAt": "2026-02-11T00:00:00Z",
         "endAt": "2026-03-01T23:59:59Z"
+      },
+      "SS26_HF3": {
+        "sites": [
+          "UK",
+          "DE"
+        ],
+        "offerTitle": "Exclusive Reward",
+        "offerDescription": "Enjoy £20 Off when you spend £100",
+        "offerText": "£20 Off",
+        "subText": "When you spend £100",
+        "bannerEnabled": true,
+        "bannerText": "£20 Off",
+        "terms": "Terms and Conditions: Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com. Clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates. Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+        "startAt": "2026-04-12T00:00:00Z",
+        "endAt": "2026-04-26T23:59:59Z",
+        "translations": {
+          "de": {
+            "offerText": "30 € Rabatt",
+            "subText": "Wenn Sie 150 € ausgeben",
+            "offerTitle": "Exklusive Belohnung",
+            "offerDescription": "Genießen Sie 20 £ Rabatt, wenn Sie 100 £ ausgeben",
+            "bannerText": "30 € Rabatt",
+            "terms": "Geschäftsbedingungen: Geben Sie den Angebotscode telefonisch an oder wenden Sie den Code im Warenkorb auf charlestyrwhitt.com an. Ausverkaufs-/Sale-Artikel, Geschenkkarten, Geschenkverpackungen, Versandkosten und Änderungen sind von diesem Angebot ausgeschlossen. Nicht mit anderen Rabatten, Gutscheinen oder Cashback-/Rückerstattungsaktionen kombinierbar. Nur einmal einlösbar. Wir behalten uns das Recht vor, dieses Angebot jederzeit zu ändern. Die allgemeinen Geschäftsbedingungen finden Sie auf unserer Website."
+          },
+          "fr": {}
+        }
       }
     },
     "de": {
@@ -269,6 +295,18 @@
         {
           "start": "2026-03-04",
           "end": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "sites": [
+        "UK",
+        "DE"
+      ],
+      "ranges": [
+        {
+          "start": "2026-04-18",
+          "end": "2026-04-19"
         }
       ]
     }
