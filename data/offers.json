@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-04-15T18:07:48.812Z",
+    "lastUpdated": "2026-04-15T18:13:29.956Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -237,6 +237,24 @@
       "startAt": "2026-04-20T00:00:00Z",
       "endAt": "2026-04-27T23:59:59Z",
       "contains": "NW"
+    },
+    {
+      "sites": [
+        "US"
+      ],
+      "campaign": "2nd Purchase Postcard",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "Enjoy 3 Shirts or Polos $149 + Free Shipping",
+      "offerText": "3 Shirts or Polos $149 ",
+      "subText": "+ Free Shipping",
+      "bannerEnabled": true,
+      "bannerText": "3 Shirts or Polos $149 ",
+      "terms": "Terms and Conditions: Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com. Clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates.  Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+      "contact": "Daniel",
+      "suppDates": "",
+      "startAt": "2026-04-20T00:00:00Z",
+      "endAt": "2026-04-27T23:59:59Z",
+      "contains": "SEC"
     }
   ],
   "SUPPRESSION": [
