@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-04-15T18:13:29.956Z",
+    "lastUpdated": "2026-04-15T18:14:02.646Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -227,6 +227,7 @@
       "sites": [
         "US"
       ],
+      "campaign": "NWLM",
       "offerTitle": "Exclusive Reward",
       "offerDescription": "Enjoy $75 off your next order, no minimum spend",
       "offerText": "$75 off",
@@ -234,6 +235,8 @@
       "bannerEnabled": true,
       "bannerText": "$75 Off",
       "terms": "Terms and Conditions: Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com. Clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates.  Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+      "contact": "Daniel",
+      "suppDates": "",
       "startAt": "2026-04-20T00:00:00Z",
       "endAt": "2026-04-27T23:59:59Z",
       "contains": "NW"
