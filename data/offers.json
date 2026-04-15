@@ -1,16 +1,15 @@
 {
   "_meta": {
-    "lastUpdated": "2026-04-15T18:17:42.068Z",
+    "lastUpdated": "2026-04-15T18:22:24.554Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
   "OFFER_CONFIGS": [
     {
-      "payloadKey": "uoc-web-loyalty-level1",
-      "attrName": "UOC_Web_Loyalty_Level1",
       "sites": [
         "US"
       ],
+      "campaign": "Loyalty 1st Purchase ",
       "offerTitle": "Welcome offer",
       "offerDescription": "As a thank you for your first purchase, enjoy $60 off your next full-price order.",
       "offerText": "$60 OFF",
@@ -18,8 +17,12 @@
       "bannerEnabled": true,
       "bannerText": "Get $60 OFF your next order",
       "terms": "This offer is intended for the and can only be used once in a single order. US Customers only. Not valid on Clearance and/or Last Chance items.",
+      "contact": "George",
+      "suppDates": "",
       "startAt": "2026-01-26T00:00:00Z",
       "endAt": "DAYS:14",
+      "payloadKey": "uoc-web-loyalty-level1",
+      "attrName": "UOC_Web_Loyalty_Level1",
       "assignedPayloadKey": "loyalty-level1-assigned-date"
     }
   ],
