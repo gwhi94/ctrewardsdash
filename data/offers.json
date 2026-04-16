@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-04-15T18:22:24.554Z",
+    "lastUpdated": "2026-04-16T10:23:37.168Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -76,6 +76,7 @@
         "sites": [
           "UK"
         ],
+        "campaign": "BCM",
         "offerTitle": "Exclusive Reward",
         "offerDescription": "£30 off your order.",
         "offerText": "£30 OFF",
@@ -83,6 +84,8 @@
         "bannerEnabled": true,
         "bannerText": "£30 off – Exclusive Reward",
         "terms": "Terms and Conditions: Offer ends at 11:59pm on 1st March 2026.",
+        "contact": "",
+        "suppDates": "",
         "startAt": "2026-02-09T00:00:00Z",
         "endAt": "2026-03-09T23:59:59Z"
       },
@@ -194,7 +197,26 @@
       }
     }
   },
-  "GI_SOURCECODE3_OFFERS": [],
+  "GI_SOURCECODE3_OFFERS": [
+    {
+      "sites": [
+        "FR"
+      ],
+      "campaign": "",
+      "offerTitle": "fff",
+      "offerDescription": "fff",
+      "offerText": "fff",
+      "subText": "fff",
+      "bannerEnabled": true,
+      "bannerText": "",
+      "terms": "",
+      "contact": "",
+      "suppDates": "",
+      "startAt": "2026-04-18T00:00:00Z",
+      "endAt": "2026-04-30T23:59:59Z",
+      "contains": "test"
+    }
+  ],
   "DM_SOURCECODE3_OFFERS": [
     {
       "sites": [
