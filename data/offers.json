@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-04-17T11:38:35.233Z",
+    "lastUpdated": "2026-04-17T11:43:06.754Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -109,25 +109,6 @@
       "suppDates": "",
       "startAt": "2026-04-20T00:00:00Z",
       "endAt": "2026-05-18T23:59:59Z",
-      "dmVersion": "dm"
-    },
-    "EXCELLENTCUSTOMER": {
-      "id": "CT-8RN56H",
-      "sites": [
-        "US"
-      ],
-      "campaign": "",
-      "offerTitle": "Exclusive Reward",
-      "offerDescription": "",
-      "offerText": "$100 OFF",
-      "subText": "No Minimum Spend",
-      "bannerEnabled": true,
-      "bannerText": "$100 OFF",
-      "terms": "N/A",
-      "contact": "George",
-      "suppDates": "",
-      "startAt": "2026-04-16T00:00:00Z",
-      "endAt": "2026-04-24T23:59:59Z",
       "dmVersion": "dm"
     }
   },
