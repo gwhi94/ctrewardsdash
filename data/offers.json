@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-04-17T07:22:08.112Z",
+    "lastUpdated": "2026-04-17T07:22:58.972Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -240,21 +240,21 @@
       "sites": [
         "US"
       ],
-      "campaign": "2nd Purchase Postcard (A Segment)",
+      "campaign": "2nd Purchase Postcard",
       "offerTitle": "3 Shirts $149 + 20% Off",
       "offerDescription": "3 Shirts or Polos $149 + 20% Off everything else.",
       "offerText": "3 SHIRTS $149",
       "subText": "+ 20% off everything else",
       "bannerEnabled": true,
-      "bannerText": "3 Shirts or Polos $149",
+      "bannerText": "3 Shirts or Polos $149 ",
       "terms": "Terms and Conditions: Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com.",
-      "contact": "Daniel",
+      "contact": "",
       "suppDates": "",
       "startAt": "2026-01-26T00:00:00Z",
       "endAt": "2026-07-27T23:59:59Z",
       "contains": [
         "SEC",
-        "TEST"
+        "TESTSEG"
       ]
     },
     {
