@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-04-17T07:28:39.613Z",
+    "lastUpdated": "2026-04-17T07:29:04.026Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -197,26 +197,7 @@
       }
     }
   },
-  "GI_SOURCECODE3_OFFERS": [
-    {
-      "sites": [
-        "FR"
-      ],
-      "campaign": "",
-      "offerTitle": "fff",
-      "offerDescription": "fff",
-      "offerText": "fff",
-      "subText": "fff",
-      "bannerEnabled": true,
-      "bannerText": "",
-      "terms": "",
-      "contact": "",
-      "suppDates": "",
-      "startAt": "2026-04-18T00:00:00Z",
-      "endAt": "2026-04-30T23:59:59Z",
-      "contains": "test"
-    }
-  ],
+  "GI_SOURCECODE3_OFFERS": [],
   "DM_SOURCECODE3_OFFERS": [
     {
       "sites": [
