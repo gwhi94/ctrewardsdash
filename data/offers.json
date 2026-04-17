@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-04-17T08:22:05.606Z",
+    "lastUpdated": "2026-04-17T08:23:26.450Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -308,6 +308,27 @@
       "endAt": "2026-05-10T23:59:59Z",
       "prefixes": [
         "XQYC"
+      ]
+    },
+    {
+      "id": "CT-Q6BFJ8",
+      "sites": [
+        "AU"
+      ],
+      "campaign": "AUHSS26WLMB2",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "",
+      "offerText": "$50 Off ",
+      "subText": "When you spend $200",
+      "bannerEnabled": true,
+      "bannerText": "$50 Off",
+      "terms": "This offer ends at 23:59 (AEST) on May 10th, 2026. $200 minimum spend required. Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com. Clearance/sale items, gift cards, gift boxes, shipping costs and alterations are excluded from this offer. It cannot be used in conjunction with other discounts, vouchers, or cash-back/rebates. Redeemable once. We reserve the right to amend this offer at any time. For standard terms and conditions, please see our website.",
+      "contact": "Cale",
+      "suppDates": "",
+      "startAt": "2026-04-16T00:00:00Z",
+      "endAt": "2026-05-10T23:59:59Z",
+      "prefixes": [
+        "XQX3"
       ]
     }
   ],
