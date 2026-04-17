@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-04-17T07:33:59.983Z",
+    "lastUpdated": "2026-04-17T07:36:44.875Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -23,7 +23,8 @@
       "endAt": "DAYS:14",
       "payloadKey": "uoc-web-loyalty-level1",
       "attrName": "UOC_Web_Loyalty_Level1",
-      "assignedPayloadKey": "loyalty-level1-assigned-date"
+      "assignedPayloadKey": "loyalty-level1-assigned-date",
+      "id": "CT-DZWPWU"
     }
   ],
   "DIRECT_MAIL_REWARDS": {
@@ -39,7 +40,8 @@
       "bannerText": "$75 off – Exclusive Reward",
       "terms": "This offer ends at 11:59PM (PST) on February 8th, 2026.",
       "startAt": "2026-01-26T00:00:00Z",
-      "endAt": "2026-02-09T00:00:00Z"
+      "endAt": "2026-02-09T00:00:00Z",
+      "id": "CT-V6H3JH"
     },
     "USH471GPB": {
       "sites": [
@@ -53,7 +55,8 @@
       "bannerText": "30% off – Exclusive Reward",
       "terms": "This offer ends at 11:59PM (PST) on February 8th, 2026.",
       "startAt": "2026-01-26T00:00:00Z",
-      "endAt": "2026-02-09T00:00:00Z"
+      "endAt": "2026-02-09T00:00:00Z",
+      "id": "CT-NTJF8R"
     },
     "USH471GPC": {
       "sites": [
@@ -67,7 +70,8 @@
       "bannerText": "$75 off $150 – Exclusive Reward",
       "terms": "This offer ends at 11:59PM (PST) on February 8th, 2026.",
       "startAt": "2026-01-26T00:00:00Z",
-      "endAt": "2026-02-09T00:00:00Z"
+      "endAt": "2026-02-09T00:00:00Z",
+      "id": "CT-8BPC3G"
     }
   },
   "EMAIL_SEGMENTATION_OFFERS": {
@@ -87,7 +91,8 @@
         "contact": "",
         "suppDates": "",
         "startAt": "2026-02-09T00:00:00Z",
-        "endAt": "2026-03-09T23:59:59Z"
+        "endAt": "2026-03-09T23:59:59Z",
+        "id": "CT-8JH7N3"
       },
       "SS26_BCMB": {
         "sites": [
@@ -101,7 +106,8 @@
         "bannerText": "£30 off £120 – Exclusive Reward",
         "terms": "Terms and Conditions: Offer ends at 11:59pm on 1st March 2026.",
         "startAt": "2026-02-09T00:00:00Z",
-        "endAt": "2026-03-09T23:59:59Z"
+        "endAt": "2026-03-09T23:59:59Z",
+        "id": "CT-EKENPS"
       },
       "SS26_BCMC": {
         "sites": [
@@ -115,7 +121,8 @@
         "bannerText": "20% off – Exclusive Reward",
         "terms": "Terms and Conditions: Offer ends at 11:59pm on 1st March 2026.",
         "startAt": "2026-02-09T00:00:00Z",
-        "endAt": "2026-03-09T23:59:59Z"
+        "endAt": "2026-03-09T23:59:59Z",
+        "id": "CT-8KYXSD"
       },
       "SS26_2_React_Test": {
         "sites": [
@@ -129,7 +136,8 @@
         "bannerText": "£25 off – Exclusive Reward",
         "terms": "Offer ends at 11:59pm on 1st March 2026.",
         "startAt": "2026-02-11T00:00:00Z",
-        "endAt": "2026-03-01T23:59:59Z"
+        "endAt": "2026-03-01T23:59:59Z",
+        "id": "CT-HLM84K"
       },
       "SS26_HVM_Reacts": {
         "sites": [
@@ -143,7 +151,8 @@
         "bannerText": "£25 off – Exclusive Reward",
         "terms": "Offer ends at 11:59pm on 1st March 2026.",
         "startAt": "2026-02-11T00:00:00Z",
-        "endAt": "2026-03-01T23:59:59Z"
+        "endAt": "2026-03-01T23:59:59Z",
+        "id": "CT-DRPDJS"
       },
       "SS26_HF3": {
         "sites": [
@@ -177,7 +186,8 @@
             "terms": "Geschäftsbedingungen: Geben Sie den Angebotscode telefonisch an oder wenden Sie den Code im Warenkorb auf charlestyrwhitt.com an. Ausverkaufs-/Sale-Artikel, Geschenkkarten, Geschenkverpackungen, Versandkosten und Änderungen sind von diesem Angebot ausgeschlossen. Nicht mit anderen Rabatten, Gutscheinen oder Cashback-/Rückerstattungsaktionen kombinierbar. Nur einmal einlösbar. Wir behalten uns das Recht vor, dieses Angebot jederzeit zu ändern. Die allgemeinen Geschäftsbedingungen finden Sie auf unserer Website."
           },
           "fr": {}
-        }
+        },
+        "id": "CT-3ZMW2M"
       }
     },
     "de": {
@@ -193,7 +203,8 @@
         "bannerText": "30€ Rabatt – Exklusiver Vorteil",
         "terms": "Endet 1. März 2026.",
         "startAt": "2026-02-09T00:00:00Z",
-        "endAt": "2026-03-09T23:59:59Z"
+        "endAt": "2026-03-09T23:59:59Z",
+        "id": "CT-TBQ7FN"
       }
     }
   },
@@ -215,10 +226,10 @@
       "suppDates": "",
       "startAt": "2026-01-26T00:00:00Z",
       "endAt": "2026-07-27T23:59:59Z",
-      "contains": "NW"
+      "contains": "NW",
+      "id": "CT-7GYQ4B"
     },
     {
-      "id": "CT-GSTDVQ",
       "sites": [
         "US"
       ],
@@ -228,7 +239,7 @@
       "offerText": "3 SHIRTS $149",
       "subText": "+ 20% off everything else",
       "bannerEnabled": true,
-      "bannerText": "3 Shirts or Polos $149",
+      "bannerText": "3 Shirts or Polos $149.",
       "terms": "Terms and Conditions: Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com.",
       "contact": "",
       "suppDates": "",
@@ -237,7 +248,8 @@
       "contains": [
         "SEC",
         "TESTSEG"
-      ]
+      ],
+      "id": "CT-3X45LQ"
     },
     {
       "sites": [
@@ -255,7 +267,8 @@
       "suppDates": "",
       "startAt": "2026-04-20T00:00:00Z",
       "endAt": "2026-04-27T23:59:59Z",
-      "contains": "NW"
+      "contains": "NW",
+      "id": "CT-DJ9MZC"
     },
     {
       "sites": [
@@ -273,7 +286,8 @@
       "suppDates": "",
       "startAt": "2026-04-20T00:00:00Z",
       "endAt": "2026-04-27T23:59:59Z",
-      "contains": "SEC"
+      "contains": "SEC",
+      "id": "CT-L6SFNX"
     }
   ],
   "SUPPRESSION": [
