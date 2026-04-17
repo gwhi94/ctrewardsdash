@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-04-17T07:29:04.026Z",
+    "lastUpdated": "2026-04-17T07:33:59.983Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -218,6 +218,7 @@
       "contains": "NW"
     },
     {
+      "id": "CT-GSTDVQ",
       "sites": [
         "US"
       ],
@@ -227,7 +228,7 @@
       "offerText": "3 SHIRTS $149",
       "subText": "+ 20% off everything else",
       "bannerEnabled": true,
-      "bannerText": "3 Shirts or Polos $149.",
+      "bannerText": "3 Shirts or Polos $149",
       "terms": "Terms and Conditions: Quote offer code over the phone or apply offer code in bag at charlestyrwhitt.com.",
       "contact": "",
       "suppDates": "",
