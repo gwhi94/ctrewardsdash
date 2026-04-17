@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-04-17T08:02:23.382Z",
+    "lastUpdated": "2026-04-17T08:03:41.171Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -115,7 +115,9 @@
   "DIRECT_MAIL_REWARDS_2": {
     "WLMR": {
       "id": "CT-ABVY4J",
-      "sites": null,
+      "sites": [
+        "US"
+      ],
       "campaign": "USHSS26WLMR",
       "offerTitle": "Exclusive Reward",
       "offerDescription": "Enjoy $75 off",
