@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-04-24T10:10:41.146Z",
+    "lastUpdated": "2026-04-24T10:10:43.311Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -493,17 +493,5 @@
       "id": "CT-L6SFNX"
     }
   ],
-  "SUPPRESSION": [
-    {
-      "sites": [
-        "UK"
-      ],
-      "ranges": [
-        {
-          "start": "2026-03-08",
-          "end": "2026-03-08"
-        }
-      ]
-    }
-  ]
+  "SUPPRESSION": []
 }
