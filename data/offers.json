@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-04-24T11:01:50.736Z",
+    "lastUpdated": "2026-04-24T12:24:55.555Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -266,27 +266,6 @@
           "fr": {}
         },
         "id": "CT-3ZMW2M"
-      },
-      "SS26_HFWLM": {
-        "id": "CT-HA24WH",
-        "sites": [
-          "UK",
-          "DE",
-          "FR"
-        ],
-        "campaign": "SS26 HFWLM - TEST",
-        "offerTitle": "Best Customer Mailing",
-        "offerDescription": "£30 off, no minimum spend",
-        "offerText": "£30 OFF",
-        "subText": "No minimum spend",
-        "bannerEnabled": true,
-        "bannerText": "",
-        "terms": "",
-        "contact": "",
-        "suppDates": "",
-        "startAt": "2026-05-13T00:00:00Z",
-        "endAt": "2026-05-29T23:59:59Z",
-        "codeType": "static_per_market"
       }
     },
     "de": {
