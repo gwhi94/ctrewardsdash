@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-04-24T13:56:08.264Z",
+    "lastUpdated": "2026-04-24T13:58:51.805Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -25,62 +25,6 @@
       "attrName": "UOC_Web_Loyalty_Level1",
       "assignedPayloadKey": "loyalty-level1-assigned-date",
       "id": "CT-DZWPWU"
-    },
-    {
-      "id": "CT-AMSHFE",
-      "sites": [
-        "UK"
-      ],
-      "campaign": "Test for Custom Offer",
-      "offerTitle": "Test For Custom",
-      "offerDescription": "",
-      "offerText": "Test For Custom",
-      "subText": "Test For Custom",
-      "bannerEnabled": true,
-      "bannerText": "Test For Custom",
-      "terms": "",
-      "contact": "",
-      "suppDates": "",
-      "startAt": "2026-04-23T00:00:00Z",
-      "endAt": "2026-04-25T23:59:59Z",
-      "customQualifiers": [
-        {
-          "attr": "gi_EmailSegmentation",
-          "operator": "equals",
-          "value": "testforcustom"
-        }
-      ],
-      "customUocAttr": "dm_UOC",
-      "customUocMode": "attr",
-      "srcType": "custom"
-    },
-    {
-      "id": "CT-7VA6H3",
-      "sites": [
-        "UK"
-      ],
-      "campaign": "Test 100",
-      "offerTitle": "test100",
-      "offerDescription": "test100",
-      "offerText": "test100",
-      "subText": "test100",
-      "bannerEnabled": true,
-      "bannerText": "test100",
-      "terms": "",
-      "contact": "George",
-      "suppDates": "",
-      "startAt": "2026-04-23T00:00:00Z",
-      "endAt": "2026-04-26T23:59:59Z",
-      "customQualifiers": [
-        {
-          "attr": "gi_EmailSegmentation",
-          "operator": "equals",
-          "value": "test100"
-        }
-      ],
-      "customUocAttr": "",
-      "customUocMode": "attr",
-      "srcType": "custom"
     }
   ],
   "DIRECT_MAIL_REWARDS": {
