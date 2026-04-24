@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-04-24T10:10:43.311Z",
+    "lastUpdated": "2026-04-24T11:01:50.736Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -266,24 +266,6 @@
           "fr": {}
         },
         "id": "CT-3ZMW2M"
-      },
-      "STAGING_TEST_5": {
-        "id": "CT-V67GPL",
-        "sites": [
-          "UK"
-        ],
-        "campaign": "STAGING_TEST_5",
-        "offerTitle": "STAGING_TEST_5",
-        "offerDescription": "STAGING_TEST_5",
-        "offerText": "STAGING_TEST_5",
-        "subText": "STAGING_TEST_5",
-        "bannerEnabled": true,
-        "bannerText": "STAGING_TEST_5",
-        "terms": "",
-        "contact": "",
-        "suppDates": "",
-        "startAt": "2026-04-21T00:00:00Z",
-        "endAt": ""
       },
       "SS26_HFWLM": {
         "id": "CT-HA24WH",
