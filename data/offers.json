@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-04-24T10:10:39.502Z",
+    "lastUpdated": "2026-04-24T10:10:41.146Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -497,17 +497,6 @@
     {
       "sites": [
         "UK"
-      ],
-      "ranges": [
-        {
-          "start": "2026-03-08",
-          "end": "2026-03-08"
-        }
-      ]
-    },
-    {
-      "sites": [
-        "DE"
       ],
       "ranges": [
         {
