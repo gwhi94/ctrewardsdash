@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-04-29T14:16:23.708Z",
+    "lastUpdated": "2026-04-29T14:18:25.755Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -69,6 +69,34 @@
           "attr": "gi_EmailSegmentation",
           "operator": "contains",
           "value": "SS26_DE_HFWLM"
+        }
+      ],
+      "customUocAttr": "",
+      "customUocMode": "attr",
+      "srcType": "custom"
+    },
+    {
+      "id": "CT-RDLL5U",
+      "sites": [
+        "FR"
+      ],
+      "campaign": "FRHSS26WLM",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "",
+      "offerText": "20 % de réduction ! ",
+      "subText": "Et la livraison est gratuite dès 200 € d’achat",
+      "bannerEnabled": true,
+      "bannerText": "20 % de réduction ! ",
+      "terms": "Conditions générales : Offre valable jusqu'au 7 juin 2025 à 23h59. Cette promotion n'est pas cumulable avec d'autres bons d'achat, promotions spéciales ou offres à prix de lancement. Elle est réservée au destinataire de l'e-mail. Le code ne peut être utilisé que pour une seule transaction. Saisissez votre code promo exclusif dans le panier d'achat pour bénéficier de l'offre. Cette offre ne s'applique pas au déstockage, aux articles en solde, aux frais d'expédition, aux bons d'achat, aux coffrets cadeaux et aux retouches. La livraison gratuite s'applique à la livraison standard pour un achat minimum de 200 €. Elle ne peut être échangée contre de l'argent. Nous nous réservons le droit de retirer, de modifier ou de prolonger cette offre à tout moment et sans préavis. Pour les conditions générales standard, veuillez consulter notre site web.",
+      "contact": "Charlotte C",
+      "suppDates": "22/05/26 - 25/05/26",
+      "startAt": "2026-05-12T00:00:00Z",
+      "endAt": "2026-06-07T23:59:59Z",
+      "customQualifiers": [
+        {
+          "attr": "gi_EmailSegmentation",
+          "operator": "contains",
+          "value": "SS26_FR_HFWLM"
         }
       ],
       "customUocAttr": "",
@@ -510,6 +538,17 @@
     {
       "sites": [
         "DE"
+      ],
+      "ranges": [
+        {
+          "start": "2026-05-22",
+          "end": "2026-05-25"
+        }
+      ]
+    },
+    {
+      "sites": [
+        "FR"
       ],
       "ranges": [
         {
