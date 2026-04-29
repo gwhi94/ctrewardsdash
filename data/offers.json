@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-04-29T14:22:10.130Z",
+    "lastUpdated": "2026-04-29T14:24:07.911Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -470,6 +470,27 @@
       "prefixes": [
         "RKP3"
       ]
+    },
+    {
+      "id": "CT-26JHF2",
+      "sites": [
+        "FR"
+      ],
+      "campaign": "WLM Email Only Customers RKP4",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "",
+      "offerText": "20 % de réduction ! ",
+      "subText": "Et la livraison est gratuite dès 200 € d’achat",
+      "bannerEnabled": true,
+      "bannerText": "20 % de réduction ! ",
+      "terms": "20 % de réduction ! Et la livraison est gratuite dès 200 € d’achat",
+      "contact": "Charlotte C",
+      "suppDates": "22/05/26 - 25/05/26",
+      "startAt": "2026-05-12T00:00:00Z",
+      "endAt": "2026-06-07T23:59:59Z",
+      "prefixes": [
+        "RKP4"
+      ]
     }
   ],
   "GI_SOURCECODE3_OFFERS": [],
@@ -613,6 +634,17 @@
     {
       "sites": [
         "DE"
+      ],
+      "ranges": [
+        {
+          "start": "2026-05-22",
+          "end": "2026-05-25"
+        }
+      ]
+    },
+    {
+      "sites": [
+        "FR"
       ],
       "ranges": [
         {
