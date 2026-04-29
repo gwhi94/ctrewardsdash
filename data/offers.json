@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-04-29T14:13:51.024Z",
+    "lastUpdated": "2026-04-29T14:16:23.708Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -46,6 +46,34 @@
       "payloadKey": "uoc-web-loyalty-level1",
       "attrName": "UOC_Web_Loyalty_Level1",
       "assignedPayloadKey": "loyalty-level1-assigned-date"
+    },
+    {
+      "id": "CT-22M9AX",
+      "sites": [
+        "DE"
+      ],
+      "campaign": "GEHSS26WLM",
+      "offerTitle": "Exclusive Reward",
+      "offerDescription": "",
+      "offerText": "25 % Rabatt",
+      "subText": "Plus Gratis-Lieferung ab einem Einkauf von 200 €",
+      "bannerEnabled": true,
+      "bannerText": "25 % Rabatt",
+      "terms": "Angebotsbedingungen: Dieses Angebot ist nicht in Verbindung mit anderen Gutscheinen, Sonderangeboten oder Einführungspreisen gültig und endet am 7. Juni 2026 um 23:59 Uhr. Der Code kann nur für eine Transaktion verwendet werden. Sale, Express-Versandkosten, Geschenkgutscheine, Geschenkverpackungen und Änderungsarbeiten sind von diesem Angebot ausgeschlossen. Gutscheine können nicht gegen Bargeld umgetauscht werden. Wir behalten uns das Recht vor, dieses Angebot jederzeit und ohne vorherige Ankündigung zurückzuziehen, zu ändern oder zu erweitern. Die kostenlose Lieferung gilt ausschließlich für den Standardversand mit einem Mindestumsatz von 200 €. Die Allgemeinen Geschäftsbedingungen finden Sie auf charlestyrwhitt.com/de/agbs.html.",
+      "contact": "Charlotte C",
+      "suppDates": "22/05/26 - 25/05/26",
+      "startAt": "2026-05-12T00:00:00Z",
+      "endAt": "2026-06-07T23:59:59Z",
+      "customQualifiers": [
+        {
+          "attr": "gi_EmailSegmentation",
+          "operator": "contains",
+          "value": "SS26_DE_HFWLM"
+        }
+      ],
+      "customUocAttr": "",
+      "customUocMode": "attr",
+      "srcType": "custom"
     }
   ],
   "DIRECT_MAIL_REWARDS": {
@@ -471,6 +499,17 @@
     {
       "sites": [
         "UK"
+      ],
+      "ranges": [
+        {
+          "start": "2026-05-22",
+          "end": "2026-05-25"
+        }
+      ]
+    },
+    {
+      "sites": [
+        "DE"
       ],
       "ranges": [
         {
