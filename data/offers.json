@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "lastUpdated": "2026-05-12T11:39:55.944Z",
+    "lastUpdated": "2026-05-12T11:35:35.931Z",
     "updatedBy": "CT Rewards Studio",
     "version": 1
   },
@@ -50,7 +50,7 @@
           "value": "SS26_DE_HFWLM"
         }
       ],
-      "customUocAttr": "",
+      "customUocAttr": "gi_UOC",
       "customUocMode": "attr",
       "srcType": "custom"
     }
@@ -658,17 +658,6 @@
     {
       "sites": [
         "UK"
-      ],
-      "ranges": [
-        {
-          "start": "2026-05-22",
-          "end": "2026-05-25"
-        }
-      ]
-    },
-    {
-      "sites": [
-        "DE"
       ],
       "ranges": [
         {
